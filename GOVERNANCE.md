@@ -13,7 +13,7 @@ If a maintainer has no time to do that, they should apply to leave the maintaine
 Of course, if an advisor has time to code review, we will gladly welcome them back to the maintainers team.
 If a maintainer is inactive for more than 3 months and forgets to leave the maintainers team, the owners may move him or her from the maintainers team to the advisors team.
 
-For security reasons, maintainers must [use 2FA for their accounts](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/) and if possible [provide GPG signed commits](https://help.github.com/articles/signing-commits-with-gpg/).
+For security reasons, maintainers must [use 2FA for their accounts](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa) and if possible [provide signed commits](https://docs.github.com/en/authentication/managing-commit-signature-verification).
 
 ## Owners
 
