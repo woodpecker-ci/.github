@@ -17,3 +17,10 @@ Your PR must be approved by at least one maintainer.
 Once your PR gets approved, don't worry about keeping it up-to-date or breaking
 builds (unless there's a merge conflict or a request is made by a maintainer to make
 modifications). It is the maintainer team's responsibility from this point to get it merged.
+
+## Tests
+
+For backend (golang) code, it is highly encouraged to write unit tests if you fix a bug to cover
+that case.
+
+For new functionality or features there should be at least basic testing.
