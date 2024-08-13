@@ -20,8 +20,7 @@ modifications). It is the maintainer team's responsibility from this point to ge
 
 ## Tests
 
-For backend (golang) code, it is highly encouraged to write unit or integration tests
-if you fix a bug to cover that case.
+For backend (golang) code, it is highly encouraged to write unit tests if you fix a bug to cover
+that case.
 
 For new functionality or features there should be at least basic testing.
-The integration test suite has to be extended if it involves external tools.
