@@ -7,29 +7,29 @@ We believe in the power of open source to streamline and simplify continuous int
 
 ## Highlights
 
-- **Open Source & Community Driven**
+- **Open Source & Community Driven**:
   Our project is maintained by a passionate community of contributors. Join us in shaping the future of CI!
 
-- **Lightweight & Container-Based**
+- **Lightweight & Container-Based**:
   Built on containers, Woodpecker CI seamlessly fits into existing infrastructure. It’s fast, flexible, and easy to scale.
 
-- **Simple, Yet Powerful**
+- **Simple, Yet Powerful**:
   Whether you’re just starting out with CI or you’re running large-scale pipelines, Woodpecker’s straightforward configuration and extensibility make it the right fit.
 
-- **Customization & Extensibility**
+- **Customization & Extensibility**:
   Extend or modify Woodpecker CI to meet your unique needs through a growing collection of plugins.
 
 ---
 
 ## Getting Started
 
-1. **Install Woodpecker**
+1. **Install Woodpecker**:
    Check out our [Installation Guide](https://woodpecker-ci.org/docs/intro) to learn how to get up and running quickly.
 
-2. **Create Your First Pipeline**
+2. **Create Your First Pipeline**:
    Woodpecker pipelines are defined in a YAML file. Dive into our [Quickstart](https://woodpecker-ci.org/docs/quickstart) to set up your first pipeline.
 
-3. **Explore the Docs**
+3. **Explore the Docs**:
    Our [documentation](https://woodpecker-ci.org/docs/) covers everything from pipeline syntax and plugin development to best practices and advanced use cases.
 
 ---
@@ -39,13 +39,13 @@ We believe in the power of open source to streamline and simplify continuous int
 We welcome contributions of all kinds—bug reports, feature requests, code contributions, and everything in between.
 Check out our [Contributing Guidelines](https://github.com/woodpecker-ci/woodpecker/blob/master/CONTRIBUTING.md) to get started.
 
-1. **Discuss Ideas**
+1. **Discuss Ideas**:
    Have an idea or a suggestion? Please open a [Discussion](https://github.com/woodpecker-ci/woodpecker/discussions) or jump in on existing conversations.
 
-2. **Report Issues**
+2. **Report Issues**:
    Found a bug? Create an [Issue](https://github.com/woodpecker-ci/woodpecker/issues) to let us know.
 
-3. **Pull Requests**
+3. **Pull Requests**:
    Ready to contribute code or documentation? Fork the repo, make your changes, and submit a [Pull Request](https://github.com/woodpecker-ci/woodpecker/pulls).
 
 ---
@@ -54,6 +54,7 @@ Check out our [Contributing Guidelines](https://github.com/woodpecker-ci/woodpec
 
 - **Chat & Support**: Join our [Matrix Channel](https://matrix.to/#/#woodpecker:matrix.org) for real-time support and discussion.
 - **Blog Posts & Updates**: Check our [blog](https://woodpecker-ci.org/blog) for project announcements, tutorials, and more.
+- **Social Media**: We have accounts on [Mastodon](https://floss.social/@WoodpeckerCI) and [X](https://twitter.com/woodpeckerci).
 
 ---
 
