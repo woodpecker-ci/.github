@@ -5,7 +5,7 @@
 The maintainers are responsible for managing issues, doing code review and similar tasks.
 
 A maintainer must be a contributor and contributed at least 4 accepted PRs.
-The owners or the team maintainers may invite the contributor.
+The owners or the maintainers may invite the contributor.
 A maintainer must spend some time on code reviews.
 
 If a maintainer has no time to do that, they should apply to leave the maintainers team and we will give them the honor of being a member of the
@@ -19,11 +19,16 @@ For security reasons, maintainers must [use 2FA for their accounts](https://docs
 
 Since Woodpecker is a pure community organization without any company support, to keep the development healthy we will elect two owners at the end of every year (December).\
 This can also happen when an owner proposes a vote or the majority of the maintainers do so.\
-All maintainers may vote to elect up to two other maintainers.
+All maintainers and advisors may vote to elect up to two other maintainers. Votes cannot be cast for oneself.
 When the new owners have been elected, the old owners will give up ownership to the newly elected owners.
 If an owner is unable to do so, the other owner will assist in ceding ownership to the newly elected owners.
 
 To honor the past owners, here's the history of the owners and the time they served:
+
+- 2025-01-01 ~ 2025-12-31 - <[https://github.com/woodpecker-ci/woodpecker/issues/2903](https://github.com/woodpecker-ci/woodpecker/issues/4559)>
+
+  - [Anbraten](https://github.com/anbraten)
+  - [qwerty287](https://github.com/qwerty287)
 
 - 2024-01-01 ~ 2024-12-31 - <https://github.com/woodpecker-ci/woodpecker/issues/2903>
 
