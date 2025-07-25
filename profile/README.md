@@ -27,10 +27,10 @@ We believe in the power of open source to streamline and simplify continuous int
    Check out our [Installation Guide](https://woodpecker-ci.org/docs/intro) to learn how to get up and running quickly.
 
 2. **Create Your First Pipeline**:
-   Woodpecker pipelines are defined in a YAML file. Dive into our [Quickstart](https://woodpecker-ci.org/docs/quickstart) to set up your first pipeline.
+   Woodpecker pipelines are defined in a YAML file. Dive into our [Quickstart](https://woodpecker-ci.org/docs/usage/intro) to set up your first pipeline.
 
 3. **Explore the Docs**:
-   Our [documentation](https://woodpecker-ci.org/docs/) covers everything from pipeline syntax and plugin development to best practices and advanced use cases.
+   Our [documentation](https://woodpecker-ci.org/docs/intro) covers everything from pipeline syntax and plugin development to best practices and advanced use cases.
 
 ---
 
