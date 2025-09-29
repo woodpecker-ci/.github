@@ -54,7 +54,7 @@ The project has multiple accounts and systems. Owners have access to all systems
 
 ### Accounts
 
-- [Github Org](https://github.com/woodpecker-ci/)
+- [GitHub Org](https://github.com/woodpecker-ci/)
 - [Codeberg Org](https://codeberg.org/woodpecker-ci)
 - [Codeberg Plugins Org](https://codeberg.org/woodpecker-plugins)
 - [OpenCollective](https://opencollective.com/woodpecker-ci)
