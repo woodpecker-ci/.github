@@ -72,7 +72,7 @@ Some accounts do require to share passwords. Those password should be shared usi
 
 ### Infrastructure
 
-- Domain: woodpecker-ci.org 
+- Domain: woodpecker-ci.org
   - owned by: [6543](https://github.com/6543)
   - access: [Anbraten](https://github.com/anbraten)
 - Hetzner project (VPS)
@@ -83,4 +83,3 @@ Some accounts do require to share passwords. Those password should be shared usi
   - access using Ansible / API
 - Ansible (vault password):
   - access: [Anbraten](https://github.com/anbraten) [qwerty287](https://github.com/qwerty287) [qwerty287](https://github.com/xoxys)
-
