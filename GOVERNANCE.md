@@ -64,7 +64,7 @@ The project has multiple accounts and systems. Owners have access to all systems
 
 Some accounts do require to share passwords. Those password should be shared using our [Vault](https://vault.woodpecker-ci.org).
 
-- BlueSky
+- Bluesky
 - Mastodon
 - YouTube
 - Github Bot account
