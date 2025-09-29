@@ -67,7 +67,7 @@ Some accounts do require to share passwords. Those password should be shared usi
 - Bluesky
 - Mastodon
 - YouTube
-- Github Bot account
+- GitHub Bot account
 - Codeberg Bot
 
 ### Infrastructure
