@@ -47,3 +47,40 @@ To honor the past owners, here's the history of the owners and the time they ser
 
 - 2019-07-25 ~ 2021-09-28
   - [Laszlo Fogas](https://github.com/laszlocph)
+
+## Access
+
+The project has multiple accounts and systems. Owners are granted access to all systems. Additional access might be provided to maintainers.
+
+### Accounts
+
+- [Github Org](https://github.com/woodpecker-ci/)
+- [Codeberg Org](https://codeberg.org/woodpecker-ci)
+- [Codeberg Plugins Org](https://codeberg.org/woodpecker-plugins)
+- [OpenCollective](https://opencollective.com/woodpecker-ci)
+- [Docker](https://hub.docker.com/u/woodpeckerci)
+
+### Shared Accounts
+
+Some accounts do require to share passwords. Those password should be shared using our [Vault](https://vault.woodpecker-ci.org).
+
+- BlueSky
+- Mastodon
+- YouTube
+- Github Bot account
+- Codeberg Bot
+
+### Infrastructure
+
+- Domain: woodpecker-ci.org 
+  - owned by: [6543](https://github.com/6543)
+  - access: [Anbraten](https://github.com/anbraten)
+- Hetzner project (VPS)
+  - owned by: [Anbraten](https://github.com/anbraten)
+  - access: [qwerty287](https://github.com/qwerty287)
+- Hetzner DNS
+  - owned by: [Anbraten](https://github.com/anbraten)
+  - access using Ansible / API
+- Ansible (vault password):
+  - access: [Anbraten](https://github.com/anbraten) [qwerty287](https://github.com/qwerty287) [qwerty287](https://github.com/xoxys)
+
