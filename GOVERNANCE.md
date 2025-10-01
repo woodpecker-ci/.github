@@ -83,3 +83,5 @@ Some accounts do require to share passwords. Those password should be shared usi
   - access using Ansible / API
 - Ansible (vault password):
   - access: [Anbraten](https://github.com/anbraten) [qwerty287](https://github.com/qwerty287) [xoxys](https://github.com/xoxys)
+- Mail redirection
+  - owned by: [6543](https://github.com/6543)
