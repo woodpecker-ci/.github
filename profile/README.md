@@ -54,7 +54,7 @@ Check out our [Contributing Guidelines](https://github.com/woodpecker-ci/woodpec
 
 - **Chat & Support**: Join our [Matrix Channel](https://matrix.to/#/#woodpecker:matrix.org) for real-time support and discussion.
 - **Blog Posts & Updates**: Check our [blog](https://woodpecker-ci.org/blog) for project announcements, tutorials, and more.
-- **Social Media**: We have accounts on [Mastodon](https://floss.social/@WoodpeckerCI), [Bluesky](https://bsky.app/profile/woodpecker-ci.org) and [X](https://twitter.com/woodpeckerci).
+- **Social Media**: We have accounts on [Mastodon](https://floss.social/@WoodpeckerCI) and [Bluesky](https://bsky.app/profile/woodpecker-ci.org).
 
 ---
 
