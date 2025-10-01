@@ -50,7 +50,7 @@ To honor the past owners, here's the history of the owners and the time they ser
 
 ## Access
 
-The project has multiple accounts and systems. Owners have access to all systems. Maintainers may be granted additional access.
+The project has multiple accounts and systems. Owners have admin access to all systems. Maintainers may be granted additional access.
 
 ### Accounts
 
