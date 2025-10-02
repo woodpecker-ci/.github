@@ -59,6 +59,7 @@ The project has multiple accounts and systems. Owners have admin access to all s
 - [Codeberg Plugins Org](https://codeberg.org/woodpecker-plugins)
 - [OpenCollective](https://opencollective.com/woodpecker-ci)
 - [Docker](https://hub.docker.com/u/woodpeckerci)
+- [QuayIO](https://quay.io/organization/woodpeckerci)
 
 ### Shared Accounts
 
