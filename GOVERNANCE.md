@@ -26,22 +26,18 @@ If an owner is unable to do so, the other owner will assist in ceding ownership 
 To honor the past owners, here's the history of the owners and the time they served:
 
 - 2025-01-01 ~ 2025-12-31 - <https://github.com/woodpecker-ci/woodpecker/issues/4559>
-
   - [Anbraten](https://github.com/anbraten)
   - [qwerty287](https://github.com/qwerty287)
 
 - 2024-01-01 ~ 2024-12-31 - <https://github.com/woodpecker-ci/woodpecker/issues/2903>
-
   - [6543](https://github.com/6543)
   - [Anbraten](https://github.com/anbraten)
 
 - 2023-01-01 ~ 2023-12-31 - <https://github.com/woodpecker-ci/woodpecker/issues/1467>
-
   - [6543](https://github.com/6543)
   - [Anbraten](https://github.com/anbraten)
 
 - 2021-09-28 ~ 2022-12-31 - <https://github.com/woodpecker-ci/woodpecker/issues/633>
-
   - [6543](https://github.com/6543)
   - [Anbraten](https://github.com/anbraten)
 
