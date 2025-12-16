@@ -47,3 +47,42 @@ To honor the past owners, here's the history of the owners and the time they ser
 
 - 2019-07-25 ~ 2021-09-28
   - [Laszlo Fogas](https://github.com/laszlocph)
+
+## Access
+
+The project has multiple accounts and systems. Owners have admin access to all systems. Maintainers may be granted additional access.
+
+### Accounts
+
+- [GitHub Org](https://github.com/woodpecker-ci/)
+- [Codeberg Org](https://codeberg.org/woodpecker-ci)
+- [Codeberg Plugins Org](https://codeberg.org/woodpecker-plugins)
+- [OpenCollective](https://opencollective.com/woodpecker-ci)
+- [Docker](https://hub.docker.com/u/woodpeckerci)
+- [QuayIO](https://quay.io/organization/woodpeckerci)
+
+### Shared Accounts
+
+Some accounts do require to share passwords. Those password should be shared using our [Vault](https://vault.woodpecker-ci.org).
+
+- Bluesky
+- Mastodon
+- YouTube
+- GitHub Bot account
+- Codeberg Bot
+
+### Infrastructure
+
+- Domain: woodpecker-ci.org
+  - owned by: [6543](https://github.com/6543)
+  - access: [Anbraten](https://github.com/anbraten)
+- Hetzner project (VPS)
+  - owned by: [Anbraten](https://github.com/anbraten)
+  - access: [qwerty287](https://github.com/qwerty287) [6543](https://github.com/6543)
+- Hetzner DNS
+  - owned by: [Anbraten](https://github.com/anbraten)
+  - access using Ansible / API
+- Ansible (vault password):
+  - access: [Anbraten](https://github.com/anbraten) [qwerty287](https://github.com/qwerty287) [xoxys](https://github.com/xoxys)
+- Mail redirection
+  - owned by: [6543](https://github.com/6543)
