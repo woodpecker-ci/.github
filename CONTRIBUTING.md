@@ -1,5 +1,11 @@
 # Contributing
 
+We welcome community contributions.
+
+Before submitting a feature or enhancement, please propose the idea first so we can avoid duplicate work and ensure it aligns with the project’s goals.
+
+Woodpecker CI is used by many organizations and individuals and is expected to remain stable at its core. As a result, we may reject changes that break existing functionality or address narrow use cases that are better implemented as plugins or extensions.
+
 ## Pull Requests
 
 When opening pull requests, make sure that you link issues (using keywords like `closes`) that
