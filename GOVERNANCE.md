@@ -25,6 +25,11 @@ If an owner is unable to do so, the other owner will assist in ceding ownership 
 
 To honor the past owners, here's the history of the owners and the time they served:
 
+- 2026-01-01 ~ 2026-12-31 - <https://github.com/woodpecker-ci/woodpecker/issues/5814>
+
+  - [6543](https://github.com/6543)
+  - [Anbraten](https://github.com/anbraten)
+
 - 2025-01-01 ~ 2025-12-31 - <https://github.com/woodpecker-ci/woodpecker/issues/4559>
 
   - [Anbraten](https://github.com/anbraten)
